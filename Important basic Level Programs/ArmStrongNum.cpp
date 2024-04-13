@@ -1,3 +1,5 @@
+// THE SUM OF INDIVIDUAL DIGIT CUBE IS EQUAL TO THE SUM OF THE SAME NUMBER
+
 #include <iostream>
 using namespace std;
 
