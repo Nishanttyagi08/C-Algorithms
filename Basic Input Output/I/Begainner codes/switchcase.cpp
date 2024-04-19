@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 int main () {
-char grade;
-
+int grade;
 cout<<"Enter your grade (A , B , C , D , E )"<<endl;
 cin>>grade;
 
