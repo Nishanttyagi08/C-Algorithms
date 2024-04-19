@@ -9,10 +9,11 @@ cin>>n;
 
 cout<<"Fibonacci Series :   ";
 for (i = 1; i <= n; i++) {
-    cout << a << " ";
+   
     Nextterm = a + b;
     a = b;
     b = Nextterm;
+    cout << a << " ";
 }
 
 cout<<endl;
